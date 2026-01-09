@@ -1,2 +1,20 @@
 # Simple-calculator
-A lightweight simple calculator made with pyhton and tkinter....
+# Calculator App 🧮
+
+A simple calculator app built using Python and Tkinter.
+
+## Features
+- Add
+- Subtract
+- Multiply
+- Divide
+- Clean GUI
+
+## Tech Used
+- Python
+- Tkinter
+
+## How to Run
+```bash
+python app.py
+
